@@ -18,7 +18,7 @@ Rob.setSpeed(100);
 for (int i= 0; i < 10; i++) {
 
         //         2. Move your robot 200 pixels
-Rob.move(200);
+Rob.move(100);
 
         //         4. Turn the robot 90 degrees to the right
 Rob.turn(360/10);
